@@ -1,1 +1,1 @@
-# akbar-project
+# latihan-mandiri
